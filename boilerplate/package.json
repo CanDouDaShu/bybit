@@ -1,6 +1,6 @@
 {
   "name": "my-midway-project",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "",
   "private": false,
   "dependencies": {
@@ -43,12 +43,6 @@
     "ci": "npm run cov",
     "build": "midway-bin build -c",
     "check": "luckyeye"
-  },
-  "homepage": "https://github.com/CanDouDaShu/bybit.git",
-  "bugs": "https://github.com/CanDouDaShu/bybit/issues",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:CanDouDaShu/bybit.git"
   },
   "midway-bin-clean": [
     ".vscode/.tsbuildinfo",
