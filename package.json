@@ -1,16 +1,19 @@
 {
-    "name": "bybit",
-    "version": "1.1.1",
-    "author": "Lingjie Chen <673014764@qq.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/CanDouDaShu/bybit.git"
-    },
-    "boilerplateConfig": {
-      "root": "boilerplate"
-    },
-    "files": [
-      "boilerplate",
-      "index.js"
-    ]
+  "name": "bybit",
+  "version": "1.1.1",
+  "author": "Lingjie Chen <673014764@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CanDouDaShu/bybit.git"
+  },
+  "boilerplateConfig": {
+    "root": "boilerplate"
+  },
+  "files": [
+    "boilerplate",
+    "index.js"
+  ],
+  "devDependencies": {
+    "@types/lodash": "^4.14.178"
   }
+}
