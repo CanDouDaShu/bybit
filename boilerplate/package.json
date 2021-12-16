@@ -2,7 +2,7 @@
   "name": "my-midway-project",
   "version": "1.0.0",
   "description": "",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@midwayjs/bootstrap": "^2.3.0",
     "@midwayjs/core": "^2.3.0",
