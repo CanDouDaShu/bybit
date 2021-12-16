@@ -1,0 +1,16 @@
+{
+    "name": "bybit",
+    "version": "1.0.0",
+    "author": "Lingjie Chen <673014764@qq.com>",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/CanDouDaShu/bybit.git"
+    },
+    "boilerplateConfig": {
+      "root": "boilerplate"
+    },
+    "files": [
+      "boilerplate",
+      "index.js"
+    ]
+  }
